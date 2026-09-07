@@ -1,1 +1,1 @@
-Cambio hecho desde main
+Sistema de Gestion de Abarrotes - Version Final
